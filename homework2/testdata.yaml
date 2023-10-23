@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+
+login: NewUserTest
+password: a96744fb91
+
+title: 'Test1'
+description: 'Some description for test1'
+content: 'Some content for test1'
