@@ -8,7 +8,7 @@ with open("testdata.yaml", encoding='utf-8') as f:
     testdata = yaml.safe_load(f)
 site = Site(testdata["address"])
 
-def test_create_post(selector_button, selector_password, selector_login, create_button, selector_title, 
+def test_create_post(site, selector_button, selector_password, selector_login, create_button, selector_title, 
                selector_description, selector_content, save_button, title_post):
     input1 = site.find_element("xpath", selector_login)
     input1.send_keys(testdata['login'])
