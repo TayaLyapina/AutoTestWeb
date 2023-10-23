@@ -1,0 +1,10 @@
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+
+username: NewUserTest
+password: a96744fb91
+
+title: 'Test'
+description: 'Some description for test'
+content: 'Some content for test'
