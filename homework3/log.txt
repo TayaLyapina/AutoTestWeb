@@ -1,0 +1,17 @@
+2023-10-25 14:28:53 INFO ====== WebDriver manager ======
+2023-10-25 14:28:56 INFO Get LATEST chromedriver version for google-chrome
+2023-10-25 14:28:56 INFO Get LATEST chromedriver version for google-chrome
+2023-10-25 14:28:56 INFO Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\118.0.5993.70\chromedriver-win32/chromedriver.exe] found in cache
+2023-10-25 14:28:58 INFO Test Loggin Starting
+2023-10-25 14:29:00 INFO Send NewUserTest to element //*[@id="login"]/div[1]/label/input
+2023-10-25 14:29:00 INFO Send a96744fb91 to element //*[@id="login"]/div[2]/label/input
+2023-10-25 14:29:01 INFO Click login button
+2023-10-25 14:29:03 INFO We find text Hello, NewUserTest in error field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-10-25 14:29:03 INFO Test Contact_us Starting
+2023-10-25 14:29:03 INFO Click Contact button
+2023-10-25 14:29:03 INFO Send Taya to element //*[@id="contact"]/div[1]/label/input
+2023-10-25 14:29:04 INFO Send taya@inbox.ru to element //*[@id = "contact"]/div[2]/label/input
+2023-10-25 14:29:04 INFO Send Some message to element //*[@id = "contact"]/div[3]/label/span/textarea
+2023-10-25 14:29:04 INFO Click Contact button
+2023-10-25 14:29:05 INFO Get alert message
+2023-10-25 14:29:05 INFO Alert message is Form successfully submitted

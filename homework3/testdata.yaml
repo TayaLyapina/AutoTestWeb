@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 3
+login: NewUserTest
+password: a96744fb91
+
+username: Taya
+user_email: taya@inbox.ru
+content: Some message
