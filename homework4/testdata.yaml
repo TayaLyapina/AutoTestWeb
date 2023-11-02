@@ -1,0 +1,23 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+
+login: NewUserTest
+password: a96744fb91
+
+title: 'Test1'
+description: 'Some description for test1'
+content: 'Some content for test1'
+
+username: Taya
+user_email: taya@inbox.ru
+content_contact: Some message
+
+fromaddr: taya_send_test@mail.ru
+toaddr: taya_for_test@mail.ru
+fromaddr_passwd: bYyeXsHrbxnGQXysmAWW
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: 'Осень'

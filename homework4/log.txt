@@ -1,0 +1,13 @@
+2023-11-02 09:16:10 INFO Test check not me post started
+2023-11-02 09:16:11 INFO Test create post api started
+2023-11-02 09:16:12 INFO Test check description api started
+2023-11-02 09:16:13 INFO ====== WebDriver manager ======
+2023-11-02 09:16:14 INFO Get LATEST chromedriver version for google-chrome
+2023-11-02 09:16:14 INFO Get LATEST chromedriver version for google-chrome
+2023-11-02 09:16:14 INFO Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\118.0.5993.70\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-02 09:16:16 INFO Test1 Starting
+2023-11-02 09:16:19 INFO Test2 Starting
+2023-11-02 09:16:21 INFO Test3 Stsrting
+2023-11-02 09:16:26 INFO Test Contact_us Starting
+2023-11-02 09:16:28 INFO Get alert message
+2023-11-02 09:16:28 INFO Alert message is Form successfully submitted
